@@ -13,8 +13,8 @@ npm start
 
 ## Built With
 * **React** - The web framework used
-* **MobX** - Dependency Management
-* **MobX-React** - Used to generate RSS Feeds
+* **MobX** - State management
+* **MobX-React** - bindings for React and MobX
 * **Validator.js** - form validation
 * **Material-UI@next** - UI Components
 
